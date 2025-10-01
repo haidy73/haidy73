@@ -10,7 +10,7 @@
 - **Languages:** Python, C++, Java, JavaScript 
 - **Backend:** Flask, Django
 - **Web:** HTML, CSS, Bootstrap 
-- **Databases:** SQLite  
+- **Databases:** SQLite3
 - **Tools:** Git, VS Code  
 
 ---
